@@ -1,0 +1,160 @@
+:root {
+    /* Bootstrap Colors (Base) */
+    --primary: #439631;
+    --dark: #212529;
+    --success: #06c203;
+    --danger: #d91c1c;
+    --light: #fcfcfc;
+
+    /* Bootstrap Overrides */
+    --bs-primary: var(--primary);
+    --bs-dark: var(--dark);
+    --bs-success: var(--success);
+    --bs-danger: var(--danger);
+    --bs-light: var(--light);
+
+    /* Layout Colors */
+    --default-section-background: #f0f3ef;
+    --loader-background: #224118;
+    --text-default-color: #12290f;
+
+    /* Nav Colors */
+    --nav-background: #16290f;
+    --nav-background-selected: #203b16;
+    --nav-avatar-border-color: #203b16;
+    --nav-highlight: #bdf2b1;
+    --nav-hover: #bdf2b1;
+    --nav-selected: #6bc956;
+    --nav-contrast: #fcfcfc;
+
+    /* Derived Nav Colors */
+    --nav-background-light-5: #203b16;
+    --nav-background-light-6: #244220;
+    --nav-background-dark-1: #12220c;
+    --nav-background-light-10: #2a4d1d;
+    --nav-background-light-15: #346024;
+    --nav-background-light-20: #3e722b;
+    --nav-highlight-dark-2: #a8e09e;
+
+    /* Nav Contrast Opacities */
+    --nav-contrast-90: rgba(252, 252, 252, 0.9);
+    --nav-contrast-80: rgba(252, 252, 252, 0.8);
+    --nav-contrast-70: rgba(252, 252, 252, 0.7);
+    --nav-contrast-60: rgba(252, 252, 252, 0.6);
+    --nav-contrast-50: rgba(252, 252, 252, 0.5);
+    --nav-contrast-40: rgba(252, 252, 252, 0.4);
+    --nav-contrast-30: rgba(252, 252, 252, 0.3);
+    --nav-contrast-20: rgba(252, 252, 252, 0.2);
+    --nav-contrast-10: rgba(252, 252, 252, 0.1);
+
+    /* Light Shades */
+    --light-1: #f8f9fa;
+    --light-2: #e9ecef;
+    --light-3: #dee2e6;
+    --light-4: #ced4da;
+    --light-5: #adb5bd;
+    --light-6: #6c757d;
+    --light-7: #495057;
+
+    /* Derived Section Background Colors */
+    --section-background-dark-1: #e8ebe7;
+    --section-background-dark-2: #e0e3df;
+    --section-background-dark-5: #d8dbd7;
+    --section-background-dark-7: #d0d3cf;
+    --section-background-light-3: #f3f5f2;
+    --section-background-light-4: #f5f7f4;
+
+    /* Derived Primary Colors */
+    --primary-dark-15: #2d6120;
+    --primary-light-5: #6daa5f;
+    --primary-light-5-fade: rgba(109, 170, 95, 0.9);
+    --primary-light-10: #8bc57f;
+
+    /* Derived Light Colors */
+    --light-3-light-1: #e1e5e9;
+    --light-3-light-2: #e4e8ec;
+
+    /* Article Thread Line Color */
+    --article-thread-line-color: #ced4da;
+    --article-thread-line-light-3: #d7d9db;
+    --article-thread-line-light-4: #dadcde;
+    --article-thread-line-light-20: #f0f0f2;
+
+    /* Chart JS */
+    --chart-js-border-color: var(--default-section-background);
+    --chart-js-hover-border-color: var(--light);
+    --nav-background-color: var(--nav-background);
+}
+
+[data-theme="dark"] {
+    /* Bootstrap Colors */
+    --primary: #5cb85c;
+    --dark: #fcfcfc;
+
+    /* Layout Colors */
+    --default-section-background: #121212;
+    --loader-background: #0a0a0a;
+    --text-default-color: #e0e0e0;
+
+    /* Nav Colors */
+    --nav-background: #1a1a1a;
+    --nav-background-selected: #2a2a2a;
+    --nav-avatar-border-color: #2a2a2a;
+    --nav-highlight: #2e5c23;
+    --nav-hover: #2e5c23;
+    --nav-selected: #3a752e;
+    --nav-contrast: #e0e0e0;
+
+    /* Derived Nav Colors */
+    --nav-background-light-5: #2a2a2a;
+    --nav-background-light-6: #2e2e2e;
+    --nav-background-dark-1: #141414;
+    --nav-background-light-10: #3a3a3a;
+    --nav-background-light-15: #4a4a4a;
+    --nav-background-light-20: #5a5a5a;
+    --nav-highlight-dark-2: #264a1d;
+
+    /* Nav Contrast Opacities */
+    --nav-contrast-90: rgba(224, 224, 224, 0.9);
+    --nav-contrast-80: rgba(224, 224, 224, 0.8);
+    --nav-contrast-70: rgba(224, 224, 224, 0.7);
+    --nav-contrast-60: rgba(224, 224, 224, 0.6);
+    --nav-contrast-50: rgba(224, 224, 224, 0.5);
+    --nav-contrast-40: rgba(224, 224, 224, 0.4);
+    --nav-contrast-30: rgba(224, 224, 224, 0.3);
+    --nav-contrast-20: rgba(224, 224, 224, 0.2);
+    --nav-contrast-10: rgba(224, 224, 224, 0.1);
+
+    /* Light Shades (Dark Mode Equivalents) */
+    --light-1: #1e1e1e;
+    --light-2: #252525;
+    --light-3: #303030;
+    --light-4: #424242;
+    --light-5: #616161;
+    --light-6: #757575;
+    --light-7: #9e9e9e;
+
+    /* Derived Section Background Colors (Dark Mode) */
+    --section-background-dark-1: #0f0f0f;
+    --section-background-dark-2: #0d0d0d;
+    --section-background-dark-5: #0a0a0a;
+    --section-background-dark-7: #080808;
+    --section-background-light-3: #1a1a1a;
+    --section-background-light-4: #1c1c1c;
+
+    /* Derived Primary Colors (Dark Mode) */
+    --primary-dark-15: #3a7a3a;
+    --primary-light-5: #4a9a4a;
+    --primary-light-5-fade: rgba(74, 154, 74, 0.9);
+    --primary-light-10: #6aba6a;
+
+    /* Derived Light Colors (Dark Mode) */
+    --light-3-light-1: #333333;
+    --light-3-light-2: #363636;
+
+    /* Article Thread Line Color (Dark Mode) */
+    --article-thread-line-color: #424242;
+    --article-thread-line-light-3: #4a4a4a;
+    --article-thread-line-light-4: #4d4d4d;
+    --article-thread-line-light-20: #5a5a5a;
+}

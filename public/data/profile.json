@@ -1,0 +1,138 @@
+{
+    "name": "Hanzala Imtiaz",
+    "profilePictureUrl": "images/Pictures/pfp.png",
+    "locales": {
+        "en": {
+            "name": "Hanzala Imtiaz",
+            "credits": "Designed by <strong><a href='https://github.com/hanzala-k'>Hanzala Imtiaz</a></strong>",
+            "role": "AI | ML | Automation"
+        },
+        "ur": {
+            "name": "حنظلہ امتیاز",
+            "credits": "ڈیزائن کردہ <strong><a href='https://github.com/hanzala-k'>حنظلہ امتیاز</a></strong>",
+            "role": "مصنوعی ذہانت | مشین لرننگ | آٹومیشن"
+        },
+        "it": {
+            "name": "Hanzala Imtiaz",
+            "credits": "Progettato da <strong><a href='https://github.com/hanzala-k'>Hanzala Imtiaz</a></strong>",
+            "role": "IA | ML | Automazione"
+        }
+    },
+    "contactOptions": [
+        {
+            "id": "address",
+            "faIcon": "fa-regular fa-map",
+            "href": null,
+            "locales": {
+                "en": {
+                    "value": "Islamabad, Pakistan",
+                    "valueShort": "Islamabad, Pakistan"
+                },
+                "ur": {
+                    "value": "اسلام آباد، پاکستان",
+                    "valueShort": "اسلام آباد، پاکستان"
+                },
+                "it": {
+                    "value": "Islamabad, Pakistan",
+                    "valueShort": "Islamabad, Pakistan"
+                }
+            }
+        },
+        {
+            "id": "email",
+            "value": "engrhanzalaimtiaz@gmail.com",
+            "valueShort": "engrhanzalaimtiaz@gmail.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "https://mail.google.com/mail/?view=cm&fs=1&to=engrhanzalaimtiaz@gmail.com",
+            "copy": true
+        },
+        {
+            "id": "facebook",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://www.facebook.com/hanzala.imtiaz.776379/",
+            "copy": false,
+            "locales": {
+                "en": {
+                    "value": "Hanzala Imtiaz",
+                    "valueShort": "Hanzala Imtiaz"
+                },
+                "ur": {
+                    "value": "Hanzala Imtiaz",
+                    "valueShort": "Hanzala Imtiaz"
+                },
+                "it": {
+                    "value": "Hanzala Imtiaz",
+                    "valueShort": "Hanzala Imtiaz"
+                }
+            }
+        },
+        {
+            "id": "instagram",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://www.instagram.com/hanzala_.k/",
+            "copy": false,
+            "locales": {
+                "en": {
+                    "value": "@hanzala_.k",
+                    "valueShort": "@hanzala_.k"
+                },
+                "ur": {
+                    "value": "@hanzala_.k",
+                    "valueShort": "@hanzala_.k"
+                },
+                "it": {
+                    "value": "@hanzala_.k",
+                    "valueShort": "@hanzala_.k"
+                }
+            }
+        },
+        {
+            "id": "linkedin",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/hanzala-imtiaz-5a9720399/",
+            "copy": false,
+            "locales": {
+                "en": {
+                    "value": "Hanzala Imtiaz",
+                    "valueShort": "Hanzala Imtiaz"
+                },
+                "ur": {
+                    "value": "Hanzala Imtiaz",
+                    "valueShort": "Hanzala Imtiaz"
+                },
+                "it": {
+                    "value": "Hanzala Imtiaz",
+                    "valueShort": "Hanzala Imtiaz"
+                }
+            }
+        },
+        {
+            "id": "github",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/hanzala-k",
+            "copy": false,
+            "locales": {
+                "en": {
+                    "value": "hanzala-k",
+                    "valueShort": "hanzala-k"
+                },
+                "ur": {
+                    "value": "hanzala-k",
+                    "valueShort": "hanzala-k"
+                },
+                "it": {
+                    "value": "hanzala-k",
+                    "valueShort": "hanzala-k"
+                }
+            }
+        },
+        {
+            "id": "phone",
+            "value": "+92 306 0884799",
+            "valueShort": "+92 306 0884799",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "https://wa.me/923060884799",
+            "copy": true
+        }
+    ]
+}

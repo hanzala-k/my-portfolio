@@ -1,0 +1,64 @@
+{
+    "categories": [
+        {
+            "id": "home",
+            "faIcon": "fa-regular fa-user",
+            "locales": {
+                "en": {
+                    "nav_label": "Home"
+                },
+                "it": {
+                    "nav_label": "Home"
+                },
+                "ur": {
+                    "nav_label": "صفحہ اول"
+                }
+            }
+        },
+        {
+            "id": "background",
+            "faIcon": "fa-regular fa-user",
+            "locales": {
+                "en": {
+                    "nav_label": "Background"
+                },
+                "it": {
+                    "nav_label": "Esperienza"
+                },
+                "ur": {
+                    "nav_label": "پس منظر"
+                }
+            }
+        },
+        {
+            "id": "showcase",
+            "faIcon": "fa-regular fa-folder-open",
+            "locales": {
+                "en": {
+                    "nav_label": "Showcase"
+                },
+                "it": {
+                    "nav_label": "Vetrina"
+                },
+                "ur": {
+                    "nav_label": "نمائش"
+                }
+            }
+        },
+        {
+            "id": "more",
+            "faIcon": "fa-regular fa-object-ungroup",
+            "locales": {
+                "en": {
+                    "nav_label": "More"
+                },
+                "it": {
+                    "nav_label": "Altro"
+                },
+                "ur": {
+                    "nav_label": "مزید"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,388 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "title": null,
+                    "category_all": "All",
+                    "category_productivity": "Productivity",
+                    "category_social": "Social",
+                    "category_utilities": "Utilities",
+                    "category_automation": "Automation"
+                },
+                "ur": {
+                    "title": null,
+                    "category_all": "سب",
+                    "category_productivity": "پیداواریت",
+                    "category_social": "سماجی",
+                    "category_utilities": "افادیت",
+                    "category_automation": "آٹومیشن"
+                },
+                "it": {
+                    "title": null,
+                    "category_all": "Tutti",
+                    "category_productivity": "Produttività",
+                    "category_social": "Sociale",
+                    "category_utilities": "Utilità",
+                    "category_automation": "Automazione"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-dumbbell",
+                    "fallbackFaIconColor": "#e74c3c",
+                    "category": "productivity",
+                    "locales": {
+                        "en": {
+                            "title": "Gym Website",
+                            "description": "<b>My First Gym Project</b> is a modern fitness website designed to showcase gym facilities, membership plans, and training programs. Built with HTML, CSS, and JavaScript, this project demonstrates responsive design principles and interactive user interfaces. Features include class schedules, trainer profiles, and membership registration forms.",
+                            "tags": [
+                                "HTML",
+                                "CSS",
+                                "JavaScript",
+                                "Responsive Design",
+                                "Fitness"
+                            ]
+                        },
+                        "ur": {
+                            "title": "جم ویب سائٹ",
+                            "description": "<b>میرا پہلا جم پروجیکٹ</b> ایک جدید فٹنس ویب سائٹ ہے جو جم کی سہولیات، ممبرشپ پلانز، اور ٹریننگ پروگرامز کو ظاہر کرنے کے لیے ڈیزائن کی گئی ہے۔ ایچ ٹی ایم ایل، سی ایس ایس، اور جاوا اسکرپٹ کے ساتھ بنایا گیا، یہ پروجیکٹ ریسپانسیو ڈیزائن کے اصولوں اور انٹرایکٹو یوزر انٹرفیس کا مظاہرہ کرتا ہے۔ خصوصیات میں کلاس شیڈولز، ٹرینر پروفائلز، اور ممبرشپ رجسٹریشن فارمز شامل ہیں۔",
+                            "tags": [
+                                "ایچ ٹی ایم ایل",
+                                "سی ایس ایس",
+                                "جاوا اسکرپٹ",
+                                "ریسپانسیو ڈیزائن",
+                                "فٹنس"
+                            ]
+                        },
+                        "it": {
+                            "title": "Sito Web Palestra",
+                            "description": "<b>Il Mio Primo Progetto Palestra</b> è un sito web moderno progettato per mostrare le strutture della palestra, i piani di abbonamento e i programmi di allenamento. Costruito con HTML, CSS e JavaScript, questo progetto dimostra i principi del design reattivo e le interfacce utente interattive. Le funzionalità includono orari delle lezioni, profili degli allenatori e moduli di registrazione.",
+                            "tags": [
+                                "HTML",
+                                "CSS",
+                                "JavaScript",
+                                "Design Reattivo",
+                                "Fitness"
+                            ]
+                        }
+                    },
+                    "links": [
+                        {
+                            "faIcon": "fa-brands fa-github",
+                            "href": "https://github.com/hanzala-k/my-first-gym-project.git",
+                            "stringKey": "view_on_github"
+                        },
+                        {
+                            "faIcon": "fa-solid fa-globe",
+                            "href": "https://barberiangym.netlify.app/",
+                            "stringKey": "view_live_site"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-user-tie",
+                    "fallbackFaIconColor": "#2ecc71",
+                    "category": "productivity",
+                    "locales": {
+                        "en": {
+                            "title": "Vue Resume Template",
+                            "description": "<b>Vue Resume Template</b> is an interactive, modern resume website built with Vue.js. This dynamic portfolio showcases professional experience, education, skills, and projects with a sleek, responsive design. Features include multi-language support, smooth animations, and customizable sections to create a stunning online presence.",
+                            "tags": [
+                                "Vue.js",
+                                "Portfolio",
+                                "Resume",
+                                "SPA",
+                                "Responsive"
+                            ]
+                        },
+                        "ur": {
+                            "title": "ویو ریزیومے ٹیمپلیٹ",
+                            "description": "<b>ویو ریزیومے ٹیمپلیٹ</b> ایک انٹرایکٹو، جدید ریزیومے ویب سائٹ ہے جو ویو جے ایس کے ساتھ بنائی گئی ہے۔ یہ متحرک پورٹ فولیو پیشہ ورانہ تجربہ، تعلیم، مہارت، اور پروجیکٹس کو ایک چیکنا، ریسپانسیو ڈیزائن کے ساتھ ظاہر کرتا ہے۔ خصوصیات میں کثیر لسانی سپورٹ، ہموار اینیمیشنز، اور حسب ضرورت سیکشنز شامل ہیں تاکہ ایک شاندار آن لائن موجودگی بنائی جا سکے۔",
+                            "tags": [
+                                "ویو جے ایس",
+                                "پورٹ فولیو",
+                                "ریزیومے",
+                                "ایس پی اے",
+                                "ریسپانسیو"
+                            ]
+                        },
+                        "it": {
+                            "title": "Modello Curriculum Vue",
+                            "description": "<b>Modello Curriculum Vue</b> è un sito web interattivo e moderno costruito con Vue.js. Questo portfolio dinamico mostra esperienza professionale, istruzione, competenze e progetti con un design elegante e reattivo. Le funzionalità includono supporto multilingue, animazioni fluide e sezioni personalizzabili per creare una straordinaria presenza online.",
+                            "tags": [
+                                "Vue.js",
+                                "Portfolio",
+                                "Curriculum",
+                                "SPA",
+                                "Reattivo"
+                            ]
+                        }
+                    },
+                    "links": [
+                        {
+                            "faIcon": "fa-brands fa-github",
+                            "href": "https://github.com/hanzala-k/vue-resume-template",
+                            "stringKey": "view_on_github"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-blog",
+                    "fallbackFaIconColor": "#3498db",
+                    "category": "social",
+                    "locales": {
+                        "en": {
+                            "title": "Vue Blogging Platform",
+                            "description": "<b>Vue Blogging Platform</b> is a full-featured blogging website built with Vue.js. Create, edit, and publish blog posts with a rich text editor, manage categories and tags, and engage with readers through comments. Features include user authentication, search functionality, and a clean, modern interface for both writers and readers.",
+                            "tags": [
+                                "Vue.js",
+                                "Blog",
+                                "Content Management",
+                                "Writing",
+                                "Social"
+                            ]
+                        },
+                        "ur": {
+                            "title": "ویو بلاگنگ پلیٹ فارم",
+                            "description": "<b>ویو بلاگنگ پلیٹ فارم</b> ایک مکمل خصوصیات والی بلاگنگ ویب سائٹ ہے جو ویو جے ایس کے ساتھ بنائی گئی ہے۔ ایک امیر ٹیکسٹ ایڈیٹر کے ساتھ بلاگ پوسٹس بنائیں، ترمیم کریں، اور شائع کریں، زمرہ جات اور ٹیگز کا نظم کریں، اور تبصروں کے ذریعے قارئین کے ساتھ مشغول ہوں۔ خصوصیات میں صارف کی توثیق، تلاش کی فعالیت، اور مصنفین اور قارئین دونوں کے لیے ایک صاف، جدید انٹرفیس شامل ہے۔",
+                            "tags": [
+                                "ویو جے ایس",
+                                "بلاگ",
+                                "مواد کا انتظام",
+                                "لکھنا",
+                                "سماجی"
+                            ]
+                        },
+                        "it": {
+                            "title": "Piattaforma Blogging Vue",
+                            "description": "<b>Piattaforma Blogging Vue</b> è un sito web di blogging completo costruito con Vue.js. Crea, modifica e pubblica post con un editor di testo ricco, gestisci categorie e tag e interagisci con i lettori tramite commenti. Le funzionalità includono autenticazione utente, funzionalità di ricerca e un'interfaccia pulita e moderna per scrittori e lettori.",
+                            "tags": [
+                                "Vue.js",
+                                "Blog",
+                                "Gestione Contenuti",
+                                "Scrittura",
+                                "Sociale"
+                            ]
+                        }
+                    },
+                    "links": [
+                        {
+                            "faIcon": "fa-brands fa-github",
+                            "href": "https://github.com/hanzala-k/vue-blog",
+                            "stringKey": "view_on_github"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-utensils",
+                    "fallbackFaIconColor": "#f39c12",
+                    "category": "utilities",
+                    "locales": {
+                        "en": {
+                            "title": "Calorie Counter",
+                            "description": "<b>Calorie Counter</b> is a comprehensive nutrition tracking app built with Vue.js. Track your daily meals, monitor calorie intake, and achieve your fitness goals. Features include a searchable food database, meal planning, nutritional breakdowns, progress charts, and personalized recommendations to help you maintain a healthy lifestyle.",
+                            "tags": [
+                                "Vue.js",
+                                "Health",
+                                "Nutrition",
+                                "Fitness",
+                                "Tracking"
+                            ]
+                        },
+                        "ur": {
+                            "title": "کیلوری کاؤنٹر",
+                            "description": "<b>کیلوری کاؤنٹر</b> ایک جامع غذائیت سے باخبر رہنے والی ایپ ہے جو ویو جے ایس کے ساتھ بنائی گئی ہے۔ اپنے روزانہ کے کھانے کو ٹریک کریں، کیلوری کی مقدار کی نگرانی کریں، اور اپنے فٹنس اہداف حاصل کریں۔ خصوصیات میں قابل تلاش فوڈ ڈیٹا بیس، کھانے کی منصوبہ بندی، غذائی خرابی، پیشرفت چارٹس، اور ذاتی سفارشات شامل ہیں تاکہ آپ کو صحت مند طرز زندگی برقرار رکھنے میں مدد ملے۔",
+                            "tags": [
+                                "ویو جے ایس",
+                                "صحت",
+                                "غذائیت",
+                                "فٹنس",
+                                "ٹریکنگ"
+                            ]
+                        },
+                        "it": {
+                            "title": "Contacalorie",
+                            "description": "<b>Contacalorie</b> è un'app completa per il monitoraggio della nutrizione costruita con Vue.js. Tieni traccia dei tuoi pasti quotidiani, monitora l'assunzione di calorie e raggiungi i tuoi obiettivi di fitness. Le funzionalità includono un database alimentare ricercabile, pianificazione dei pasti, ripartizione nutrizionale, grafici di progresso e raccomandazioni personalizzate.",
+                            "tags": [
+                                "Vue.js",
+                                "Salute",
+                                "Nutrizione",
+                                "Fitness",
+                                "Monitoraggio"
+                            ]
+                        }
+                    },
+                    "links": [
+                        {
+                            "faIcon": "fa-brands fa-github",
+                            "href": "https://github.com/hanzala-k/calorie-counter",
+                            "stringKey": "view_on_github"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-envelope-open-text",
+                    "fallbackFaIconColor": "#e67e22",
+                    "category": "automation",
+                    "locales": {
+                        "en": {
+                            "title": "Email Assistant",
+                            "description": "<b>Email Assistant</b> classifies incoming emails, drafts AI replies, and schedules follow-ups. It streamlines inbox management by automating sorting, labeling, and reminders.",
+                            "tags": [
+                                "AI",
+                                "Automation",
+                                "Gmail API",
+                                "NLP",
+                                "Productivity"
+                            ]
+                        },
+                        "ur": {
+                            "title": "ای میل اسسٹنٹ",
+                            "description": "<b>ای میل اسسٹنٹ</b> آنے والی ای میلز کی درجہ بندی کرتا ہے، مصنوعی ذہانت سے جوابات کا مسودہ تیار کرتا ہے، اور فالو اپس کو شیڈول کرتا ہے۔ یہ چھانٹنے، لیبل لگانے، اور یاد دہانیوں کو خودکار کرکے ان باکس مینجمنٹ کو ہموار کرتا ہے۔",
+                            "tags": [
+                                "مصنوعی ذہانت",
+                                "آٹومیشن",
+                                "جی میل اے پی آئی",
+                                "این ایل پی",
+                                "پیداواریت"
+                            ]
+                        },
+                        "it": {
+                            "title": "Assistente Email",
+                            "description": "<b>Assistente Email</b> classifica le email in arrivo, redige risposte AI e pianifica i follow-up. Ottimizza la gestione della posta in arrivo automatizzando l'ordinamento, l'etichettatura e i promemoria.",
+                            "tags": [
+                                "AI",
+                                "Automazione",
+                                "Gmail API",
+                                "NLP",
+                                "Produttività"
+                            ]
+                        }
+                    },
+                    "links": [
+                        {
+                            "faIcon": "fa-brands fa-github",
+                            "href": "#",
+                            "stringKey": "view_on_github"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-file-invoice",
+                    "fallbackFaIconColor": "#9b59b6",
+                    "category": "automation",
+                    "locales": {
+                        "en": {
+                            "title": "Doc Organizer",
+                            "description": "<b>Doc Organizer</b> automatically reads, renames, and sorts PDFs into folders. It extracts key details and sends summaries, keeping your documents perfectly organized without manual effort.",
+                            "tags": [
+                                "AI",
+                                "Python",
+                                "OCR",
+                                "File Management",
+                                "Automation"
+                            ]
+                        },
+                        "ur": {
+                            "title": "ڈاک آرگنائزر",
+                            "description": "<b>ڈاک آرگنائزر</b> خود بخود پڑھتا ہے، نام تبدیل کرتا ہے، اور پی ڈی ایف کو فولڈرز میں ترتیب دیتا ہے۔ یہ کلیدی تفصیلات نکالتا ہے اور خلاصے بھیجتا ہے، آپ کی دستاویزات کو دستی کوشش کے بغیر مکمل طور پر منظم رکھتا ہے۔",
+                            "tags": [
+                                "مصنوعی ذہانت",
+                                "پائتھون",
+                                "او سی آر",
+                                "فائل مینجمنٹ",
+                                "آٹومیشن"
+                            ]
+                        },
+                        "it": {
+                            "title": "Organizzatore Documenti",
+                            "description": "<b>Organizzatore Documenti</b> legge automaticamente, rinomina e ordina i PDF in cartelle. Estrae i dettagli chiave e invia riepiloghi, mantenendo i tuoi documenti perfettamente organizzati senza sforzo manuale.",
+                            "tags": [
+                                "AI",
+                                "Python",
+                                "OCR",
+                                "Gestione File",
+                                "Automazione"
+                            ]
+                        }
+                    },
+                    "links": [
+                        {
+                            "faIcon": "fa-brands fa-github",
+                            "href": "#",
+                            "stringKey": "view_on_github"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-headset",
+                    "fallbackFaIconColor": "#1abc9c",
+                    "category": "automation",
+                    "locales": {
+                        "en": {
+                            "title": "Support Agent",
+                            "description": "<b>Support Agent</b> automates customer support by drafting intelligent replies based on FAQs. It logs conversations and allows human review, ensuring fast and accurate responses.",
+                            "tags": [
+                                "AI",
+                                "Customer Support",
+                                "NLP",
+                                "Automation",
+                                "Business"
+                            ]
+                        },
+                        "ur": {
+                            "title": "سپورٹ ایجنٹ",
+                            "description": "<b>سپورٹ ایجنٹ</b> کسٹمر سپورٹ کو خودکار کرتا ہے جو عمومی سوالنامہ کی بنیاد پر ذہین جوابات کا مسودہ تیار کرتا ہے۔ یہ گفتگو کو لاگ کرتا ہے اور انسانی جائزے کی اجازت دیتا ہے، تیز اور درست جوابات کو یقینی بناتا ہے۔",
+                            "tags": [
+                                "مصنوعی ذہانت",
+                                "کسٹمر سپورٹ",
+                                "این ایل پی",
+                                "آٹومیشن",
+                                "کاروبار"
+                            ]
+                        },
+                        "it": {
+                            "title": "Agente di Supporto",
+                            "description": "<b>Agente di Supporto</b> automatizza il supporto clienti redigendo risposte intelligenti basate sulle FAQ. Registra le conversazioni e consente la revisione umana, garantendo risposte rapide e precise.",
+                            "tags": [
+                                "AI",
+                                "Supporto Clienti",
+                                "NLP",
+                                "Automazione",
+                                "Business"
+                            ]
+                        }
+                    },
+                    "links": [
+                        {
+                            "faIcon": "fa-brands fa-github",
+                            "href": "#",
+                            "stringKey": "view_on_github"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

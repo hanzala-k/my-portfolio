@@ -1,0 +1,116 @@
+/** Custom Fonts **/
+
+/* Jameel Noori Nastaleeq for Urdu */
+@font-face {
+    font-family: 'Jameel Noori Nastaleeq';
+    src: url('/fonts/Jameel Noori Nastaleeq Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Apply Urdu font when language is set to Urdu */
+html[lang="ur"] body,
+html[lang="ur"] h1,
+html[lang="ur"] h2,
+html[lang="ur"] h3,
+html[lang="ur"] h4,
+html[lang="ur"] h5,
+html[lang="ur"] h6,
+html[lang="ur"] p,
+html[lang="ur"] span,
+html[lang="ur"] div,
+html[lang="ur"] a,
+html[lang="ur"] li,
+html[lang="ur"] td,
+html[lang="ur"] th,
+html[lang="ur"] label,
+html[lang="ur"] button {
+    font-family: 'Jameel Noori Nastaleeq', 'Saira', sans-serif !important;
+}
+
+/* Exclude icon fonts from Urdu font */
+html[lang="ur"] [class*="fa-"],
+html[lang="ur"] i.fa,
+html[lang="ur"] i.fas,
+html[lang="ur"] i.far,
+html[lang="ur"] i.fab,
+html[lang="ur"] .pi {
+    font-family: 'Font Awesome 6 Free', 'Font Awesome 6 Brands', 'primeicons' !important;
+}
+
+/** Custom Fonts **/
+
+/* Jameel Noori Nastaleeq for Urdu */
+@font-face {
+    font-family: 'Jameel Noori Nastaleeq';
+    src: url('/fonts/Jameel Noori Nastaleeq Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Apply Urdu font when language is set to Urdu */
+html[lang="ur"] body,
+html[lang="ur"] h1,
+html[lang="ur"] h2,
+html[lang="ur"] h3,
+html[lang="ur"] h4,
+html[lang="ur"] h5,
+html[lang="ur"] h6,
+html[lang="ur"] p,
+html[lang="ur"] span,
+html[lang="ur"] div,
+html[lang="ur"] a,
+html[lang="ur"] li,
+html[lang="ur"] td,
+html[lang="ur"] th,
+html[lang="ur"] label,
+html[lang="ur"] button {
+    font-family: 'Jameel Noori Nastaleeq', 'Saira', sans-serif !important;
+}
+
+/* Exclude icon fonts from Urdu font */
+html[lang="ur"] [class*="fa-"],
+html[lang="ur"] i.fa,
+html[lang="ur"] i.fas,
+html[lang="ur"] i.far,
+html[lang="ur"] i.fab,
+html[lang="ur"] .pi {
+    font-family: 'Font Awesome 6 Free', 'Font Awesome 6 Brands', 'primeicons' !important;
+}
+
+/* Ensure proper text rendering for Urdu */
+html[lang="ur"] {
+    letter-spacing: normal;
+    word-spacing: normal;
+}
+
+/* Improve Urdu text readability */
+html[lang="ur"] body {
+    line-height: 2.2;
+    /* Increased line height for Nastaleeq */
+    font-size: 1.2rem;
+    /* Slightly larger base font size */
+}
+
+html[lang="ur"] h1,
+html[lang="ur"] h2,
+html[lang="ur"] h3,
+html[lang="ur"] h4,
+html[lang="ur"] h5,
+html[lang="ur"] h6 {
+    line-height: 1.6;
+    margin-bottom: 0.5rem;
+    padding-top: 0.5rem;
+    /* Add padding to prevent clipping */
+}
+
+html[lang="ur"] p {
+    margin-bottom: 1.5rem;
+}
+
+/* Adjust specific components if needed */
+html[lang="ur"] .timeline-item p {
+    font-size: 1.1rem;
+}

@@ -1,0 +1,144 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-robot",
+                    "fallbackFaIconColor": "#439631",
+                    "percentage": 80,
+                    "dateStart": null,
+                    "locales": {
+                        "en": {
+                            "title": "AI Tools & Automation",
+                            "description": "Build practical automations using n8n, AI agents, API workflows, and prompt engineering that reduce manual work and speed up tasks.",
+                            "level": "Intermediate"
+                        },
+                        "ur": {
+                            "title": "مصنوعی ذہانت کے ٹولز اور آٹومیشن",
+                            "description": "این ایٹ این، مصنوعی ذہانت کے ایجنٹس، اے پی آئی ورک فلو، اور پرامپٹ انجینئرنگ کا استعمال کرتے ہوئے عملی آٹومیشنز بنایا جو دستی کام کو کم کرتے ہیں اور کاموں کو تیز کرتے ہیں۔",
+                            "level": "درمیانی"
+                        },
+                        "it": {
+                            "title": "Strumenti AI e Automazione",
+                            "description": "Costruzione di automazioni pratiche utilizzando n8n, agenti AI, flussi di lavoro API e prompt engineering che riducono il lavoro manuale e velocizzano le attività.",
+                            "level": "Intermedio"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "fallbackFaIconColor": "#439631",
+                    "percentage": 70,
+                    "dateStart": null,
+                    "locales": {
+                        "en": {
+                            "title": "Frontend (Vue + HTML + CSS)",
+                            "description": "Develop responsive UI components, manage state, and structure clean layouts using Vue 3, HTML semantics, Flexbox, and Grid.",
+                            "level": "Beginner–Intermediate"
+                        },
+                        "ur": {
+                            "title": "فرنٹ اینڈ (ویو + ایچ ٹی ایم ایل + سی ایس ایس)",
+                            "description": "ویو 3، ایچ ٹی ایم ایل سیمنٹکس، فلیکس باکس، اور گرڈ کا استعمال کرتے ہوئے ریسپانسیو یو آئی اجزاء تیار کیا، اسٹیٹ کا انتظام کیا، اور صاف لے آؤٹ بنایا۔",
+                            "level": "ابتدائی-درمیانی"
+                        },
+                        "it": {
+                            "title": "Frontend (Vue + HTML + CSS)",
+                            "description": "Sviluppo di componenti UI reattivi, gestione dello stato e strutturazione di layout puliti utilizzando Vue 3, semantica HTML, Flexbox e Grid.",
+                            "level": "Principiante-Intermedio"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": "#439631",
+                    "percentage": 80,
+                    "dateStart": null,
+                    "locales": {
+                        "en": {
+                            "title": "Programming (Python & C++)",
+                            "description": "Understand logic, modify codebases, debug issues, and implement small scripts or feature changes confidently.",
+                            "level": "Beginner–Intermediate"
+                        },
+                        "ur": {
+                            "title": "پروگرامنگ (پائتھون اور سی پلس پلس)",
+                            "description": "منطق کو سمجھا، کوڈ بیسز میں ترمیم کیا، مسائل کو ڈی بگ کیا، اور اعتماد کے ساتھ چھوٹے اسکرپٹس یا فیچر تبدیلیاں نافذ کیا۔",
+                            "level": "ابتدائی-درمیانی"
+                        },
+                        "it": {
+                            "title": "Programmazione (Python & C++)",
+                            "description": "Comprensione della logica, modifica di codebase, debug di problemi e implementazione sicura di piccoli script o modifiche alle funzionalità.",
+                            "level": "Principiante-Intermedio"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-brain",
+                    "fallbackFaIconColor": "#439631",
+                    "percentage": 70,
+                    "dateStart": null,
+                    "locales": {
+                        "en": {
+                            "title": "Machine Learning Fundamentals",
+                            "description": "Work with basic models, preprocessing, evaluation metrics, and hands-on notebooks for simple classification and prediction tasks.",
+                            "level": "Beginner–Intermediate"
+                        },
+                        "ur": {
+                            "title": "مشین لرننگ کے بنیادی اصول",
+                            "description": "بنیادی ماڈلز، پری پروسیسنگ، تشخیصی میٹرکس، اور سادہ درجہ بندی اور پیش گوئی کے کاموں کے لیے ہینڈز آن نوٹ بکس کے ساتھ کام کیا۔",
+                            "level": "ابتدائی-درمیانی"
+                        },
+                        "it": {
+                            "title": "Fondamenti di Machine Learning",
+                            "description": "Lavoro con modelli di base, pre-elaborazione, metriche di valutazione e notebook pratici per semplici compiti di classificazione e previsione.",
+                            "level": "Principiante-Intermedio"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-video",
+                    "fallbackFaIconColor": "#439631",
+                    "percentage": 90,
+                    "dateStart": null,
+                    "locales": {
+                        "en": {
+                            "title": "Video Editing",
+                            "description": "Edit event/story videos with clean pacing, transitions, and color adjustments using CapCut and similar tools.",
+                            "level": "Intermediate"
+                        },
+                        "ur": {
+                            "title": "ویڈیو ایڈیٹنگ",
+                            "description": "کیپ کٹ اور اسی طرح کے ٹولز کا استعمال کرتے ہوئے ایونٹ/اسٹوری ویڈیوز کو صاف پیسنگ، ٹرانزیشنز، اور کلر ایڈجسٹمنٹ کے ساتھ ایڈٹ کیا۔",
+                            "level": "درمیانی"
+                        },
+                        "it": {
+                            "title": "Video Editing",
+                            "description": "Montaggio di video di eventi/storie con ritmo pulito, transizioni e regolazioni del colore utilizzando CapCut e strumenti simili.",
+                            "level": "Intermedio"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

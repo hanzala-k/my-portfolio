@@ -1,0 +1,54 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleProfile",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_list_ids": [
+                    "address",
+                    "email",
+                    "phone"
+                ],
+                "contact_circles_ids": [
+                    "instagram",
+                    "linkedin",
+                    "github",
+                    "download_resume"
+                ]
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "locales": {
+                        "en": {
+                            "description": "<strong>Computer Systems Engineering</strong> graduate focused on building practical AI tools and automations that save time—experimenting with ML models, chaining APIs, and creating lightweight pipelines. I prototype small Vue interfaces only when needed to expose or test automations."
+                        },
+                        "ur": {
+                            "description": "کمپیوٹر سسٹمز انجینیئرنگ کا گریجویٹ ہوں، جو وقت کی بچت اور کارکردگی میں اضافے کے لیے عملی خودکار نظاموں کی تیاری اور نفاذ پر توجہ مرکوز کرتا ہے۔ سیکھنے پر مبنی ماڈلز، آن لائن خدمات کے باہمی ربط، اور ہلکی مگر مؤثر ورک فلو پائپ لائنز کی تشکیل پر کام کرتا ہوں۔ ضرورت پیش آنے پر آٹومیشن کے مظاہرے یا جانچ کے لیے محدود اور مقصدی فرنٹ اینڈ انٹرفیس بھی تیار کرتا ہوں۔"
+                        },
+                        "it": {
+                            "description": "Laureato in <strong>Ingegneria dei Sistemi Informatici</strong> focalizzato sulla creazione di strumenti AI pratici e automazioni che fanno risparmiare tempo—sperimentando con modelli ML, concatenando API e creando pipeline leggere. Prototipo piccole interfacce Vue solo quando necessario per esporre o testare le automazioni."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "locales": {
+                        "en": {
+                            "description": "Results-first: shipping small, working systems—scripts, agents, and pipelines—that solve concrete problems and iterate rapidly. Seeking junior roles or collaborations in AI tooling and automation; I prioritize impact over polish."
+                        },
+                        "ur": {
+                            "description": "میرا طریقہ کار نتائج پر مبنی ہے: ایسے مختصر مگر مکمل طور پر فعال نظام تخلیق کرتا ہوں—اسکرپٹس، ایجنٹس اور پائپ لائنز—جو حقیقی مسائل کا قابلِ اعتماد حل فراہم کریں اور بتدریج بہتر ہوں۔ ذہین خودکار حل اور تکنیکی ٹولز کے شعبے میں ابتدائی سطح کی پیشہ ورانہ ذمہ داریوں یا مشترکہ تحقیقی و عملی منصوبوں کے مواقع کا خواہاں ہوں، جہاں غیر ضروری آرائش کے مقابلے میں اصل اثر اور عملی افادیت کو ترجیح دی جاتی ہے۔"
+                        },
+                        "it": {
+                            "description": "Risultati prima di tutto: rilascio di piccoli sistemi funzionanti—script, agenti e pipeline—che risolvono problemi concreti e iterano rapidamente. Cerco ruoli junior o collaborazioni in strumenti AI e automazione; do priorità all'impatto rispetto alla perfezione."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

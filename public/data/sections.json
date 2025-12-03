@@ -1,0 +1,220 @@
+{
+    "sections": [
+        {
+            "id": "about",
+            "categoryId": "home",
+            "jsonPath": "/sections/cover.json",
+            "faIcon": "fa-solid fa-address-card",
+            "type": "centered",
+            "locales": {
+                "en": {
+                    "title": "Hey! :) I'm *Hanzala*!",
+                    "title_short": "Hey I am Hanzala",
+                    "description": null,
+                    "nav_label": "About"
+                },
+                "ur": {
+                    "title": "السلام علیکم! *حنظلہ امتیاز*",
+                    "title_short": "Hey I am Hanzala",
+                    "description": null,
+                    "nav_label": "متعلق"
+                },
+                "it": {
+                    "title": "Ciao! :), Sono *Hanzala*",
+                    "title_short": "Hey I am Hanzala",
+                    "description": null,
+                    "nav_label": "circa"
+                }
+            }
+        },
+        {
+            "id": "education",
+            "categoryId": "background",
+            "jsonPath": "/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Education* Background",
+                    "title_short": null,
+                    "description": "A glimpse into my academic trajectory and accomplishments.",
+                    "nav_label": "Education"
+                },
+                "ur": {
+                    "title": "*تعلیمی* پس منظر",
+                    "title_short": null,
+                    "description": "میرے تعلیمی سفر اور کامیابیوں کی ایک جھلک۔",
+                    "nav_label": "تعلیم"
+                },
+                "it": {
+                    "title": "Background *Educativo*",
+                    "title_short": null,
+                    "description": "Uno sguardo al mio percorso accademico e ai miei risultati.",
+                    "nav_label": "Istruzione"
+                }
+            }
+        },
+        {
+            "id": "skills",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/skills.json",
+            "faIcon": "fa-solid fa-tools",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Skill* Set",
+                    "title_short": null,
+                    "description": "Exploring the diverse range of skills I've acquired and developed:",
+                    "nav_label": "Skills"
+                },
+                "ur": {
+                    "title": "*مہارتوں* کا مجموعہ",
+                    "title_short": null,
+                    "description": "ان متنوع مہارتوں کی کھوج جو میں نے حاصل کی اور تیار کی ہیں:",
+                    "nav_label": "مہارتیں"
+                },
+                "it": {
+                    "title": "Set di *Competenze*",
+                    "title_short": null,
+                    "description": "Esplorando la vasta gamma di competenze che ho acquisito e sviluppato:",
+                    "nav_label": "Competenze"
+                }
+            }
+        },
+        {
+            "id": "experience",
+            "categoryId": "background",
+            "jsonPath": "/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Professional* Experience",
+                    "title_short": null,
+                    "description": "A look into my work experience and career journey.",
+                    "nav_label": "Experience"
+                },
+                "ur": {
+                    "title": "*پیشہ ورانہ* تجربہ",
+                    "title_short": null,
+                    "description": "میرے کام کے تجربے اور کیریئر کے سفر پر ایک نظر۔",
+                    "nav_label": "تجربہ"
+                },
+                "it": {
+                    "title": "Esperienza *Professionale*",
+                    "title_short": null,
+                    "description": "Uno sguardo alla mia esperienza lavorativa e al mio percorso professionale.",
+                    "nav_label": "Esperienza"
+                }
+            }
+        },
+        {
+            "id": "portfolio",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/portfolio.json",
+            "faIcon": "fa-solid fa-folder-open",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "My *Portfolio*",
+                    "title_short": null,
+                    "description": "Explore a selection of my recent projects and creative works.",
+                    "nav_label": "Portfolio"
+                },
+                "ur": {
+                    "title": "میرا *پورٹ فولیو*",
+                    "title_short": null,
+                    "description": "میرے حالیہ پروجیکٹس اور تخلیقی کاموں کا انتخاب دریافت کریں۔",
+                    "nav_label": "پورٹ فولیو"
+                },
+                "it": {
+                    "title": "Il Mio *Portfolio*",
+                    "title_short": null,
+                    "description": "Esplora una selezione dei miei progetti recenti e lavori creativi.",
+                    "nav_label": "Portfolio"
+                }
+            }
+        },
+        {
+            "id": "certifications",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/certifications.json",
+            "faIcon": "fa-solid fa-certificate",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Certifications*",
+                    "title_short": null,
+                    "description": "A list of my professional certifications and achievements.",
+                    "nav_label": "Certifications"
+                },
+                "ur": {
+                    "title": "*سرٹیفیکیشنز*",
+                    "title_short": null,
+                    "description": "میری پیشہ ورانہ اسناد اور کامیابیوں کی فہرست۔",
+                    "nav_label": "سرٹیفیکیشنز"
+                },
+                "it": {
+                    "title": "*Certificazioni*",
+                    "title_short": null,
+                    "description": "Un elenco delle mie certificazioni professionali e risultati.",
+                    "nav_label": "Certificazioni"
+                }
+            }
+        },
+        {
+            "id": "hobbies",
+            "categoryId": "more",
+            "jsonPath": "/sections/hobbies.json",
+            "faIcon": "fa-solid fa-heart",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Hobbies* & Interests",
+                    "title_short": null,
+                    "description": "This is pretty much how I spend my free time:",
+                    "nav_label": "Hobbies"
+                },
+                "ur": {
+                    "title": "*مشاغل* اور دلچسپیاں",
+                    "title_short": null,
+                    "description": "میں اپنا فارغ وقت زیادہ تر اس طرح گزارتا ہوں:",
+                    "nav_label": "مشاغل"
+                },
+                "it": {
+                    "title": "*Hobby* e Interessi",
+                    "title_short": null,
+                    "description": "Ecco come trascorro principalmente il mio tempo libero:",
+                    "nav_label": "Hobby"
+                }
+            }
+        },
+        {
+            "id": "contact",
+            "categoryId": "more",
+            "jsonPath": "/sections/contact.json",
+            "faIcon": "fa-solid fa-envelope",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Contact*",
+                    "title_short": null,
+                    "description": "Get in touch with me via email or social media.",
+                    "nav_label": "Contact"
+                },
+                "ur": {
+                    "title": "*رابطہ*",
+                    "title_short": null,
+                    "description": "ای میل یا سوشل میڈیا کے ذریعے مجھ سے رابطہ کریں۔",
+                    "nav_label": "رابطہ"
+                },
+                "it": {
+                    "title": "*Contatti*",
+                    "title_short": null,
+                    "description": "Mettiti in contatto con me via email o social media.",
+                    "nav_label": "Contatti"
+                }
+            }
+        }
+    ]
+}

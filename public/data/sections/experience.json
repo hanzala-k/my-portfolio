@@ -1,0 +1,134 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {
+                        "year": 2023,
+                        "month": 5
+                    },
+                    "dateEnd": {
+                        "year": 2023,
+                        "month": 5
+                    },
+                    "img": "images/icons/akab-school-logo.svg",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "ICT Trainer",
+                            "description": "Conducted training sessions on basic computing for visually impaired students. Assisted students in understanding safe browsing practices and data protection techniques.",
+                            "province": "Mirpur AJK",
+                            "country": "Pakistan",
+                            "institution": "AKAB School for Blind Students",
+                            "tags": [
+                                "training",
+                                "accessibility",
+                                "education",
+                                "data protection"
+                            ]
+                        },
+                        "ur": {
+                            "title": "آئی سی ٹی ٹرینر",
+                            "description": "بصارت سے محروم طلباء کے لیے بنیادی کمپیوٹنگ پر تربیتی سیشنز کا انعقاد کیا۔ طلباء کو محفوظ براؤزنگ کے طریقوں اور ڈیٹا کے تحفظ کی تکنیکوں کو سمجھنے میں مدد کی۔",
+                            "province": "میرپور، آزاد کشمیر",
+                            "country": "پاکستان",
+                            "institution": "نابینا طلباء کے لیے اے کے اے بی اسکول",
+                            "tags": [
+                                "تربیت",
+                                "رسائی",
+                                "تعلیم",
+                                "ڈیٹا کا تحفظ"
+                            ]
+                        },
+                        "it": {
+                            "title": "Formatore ICT",
+                            "description": "Condotto sessioni di formazione sull'informatica di base per studenti ipovedenti. Assistito gli studenti nella comprensione delle pratiche di navigazione sicura e delle tecniche di protezione dei dati.",
+                            "province": "Mirpur AJK",
+                            "country": "Pakistan",
+                            "institution": "Scuola AKAB per Studenti Non Vedenti",
+                            "tags": [
+                                "formazione",
+                                "accessibilità",
+                                "istruzione",
+                                "protezione dati"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {
+                        "year": 2023,
+                        "month": 9
+                    },
+                    "dateEnd": {
+                        "year": 2024,
+                        "month": 1
+                    },
+                    "img": "images/icons/zedex-digital-logo.svg",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Front Developer",
+                            "description": "Built and managed multiple responsive websites using HTML, CSS, JavaScript and WordPress. Managed social media campaigns, ran Google and Facebook Ads, and resolved debugging issues.",
+                            "province": "Lahore",
+                            "country": "Pakistan",
+                            "institution": "Zedex Digital",
+                            "tags": [
+                                "HTML",
+                                "CSS",
+                                "JavaScript",
+                                "WordPress",
+                                "Google Ads",
+                                "Facebook Ads",
+                                "debugging"
+                            ]
+                        },
+                        "ur": {
+                            "title": "فرنٹ اینڈ ڈویلپر",
+                            "description": "ایچ ٹی ایم ایل، سی ایس ایس، جاوا اسکرپٹ اور ورڈپریس کا استعمال کرتے ہوئے متعدد ریسپانسیو ویب سائٹس بنائیں اور ان کا انتظام کیا۔ سوشل میڈیا مہمات کا انتظام کیا، گوگل اور فیس بک اشتہارات چلائے، اور ڈی بگنگ کے مسائل حل کیے۔",
+                            "province": "لاہور",
+                            "country": "پاکستان",
+                            "institution": "زیڈیکس ڈیجیٹل",
+                            "tags": [
+                                "ایچ ٹی ایم ایل",
+                                "سی ایس ایس",
+                                "جاوا اسکرپٹ",
+                                "ورڈپریس",
+                                "گوگل اشتہارات",
+                                "فیس بک اشتہارات",
+                                "ڈی بگنگ"
+                            ]
+                        },
+                        "it": {
+                            "title": "Sviluppatore Front-end",
+                            "description": "Costruito e gestito più siti web reattivi utilizzando HTML, CSS, JavaScript e WordPress. Gestito campagne sui social media, eseguito annunci Google e Facebook e risolto problemi di debug.",
+                            "province": "Lahore",
+                            "country": "Pakistan",
+                            "institution": "Zedex Digital",
+                            "tags": [
+                                "HTML",
+                                "CSS",
+                                "JavaScript",
+                                "WordPress",
+                                "Google Ads",
+                                "Facebook Ads",
+                                "debugging"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

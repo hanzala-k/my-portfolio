@@ -1,0 +1,95 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {
+                        "year": 2017,
+                        "month": 9
+                    },
+                    "dateEnd": {
+                        "year": 2019,
+                        "month": 7
+                    },
+                    "img": "images/icons/alghazali-college-logo.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Pre-University Program in Pre-Engineering",
+                            "description": "Completed FSc (Pre-Engineering) providing strong analytical thinking and lab discipline. This foundation directly supported the Bachelor's in Computer Systems Engineering—mathematical methods and physics concepts eased understanding of circuits, signals, and systems, while lab experience carried over to hands-on projects in programming.",
+                            "province": "AJK",
+                            "country": "Pakistan",
+                            "institution": "Alghazali College of Sciences ",
+                            "tags": []
+                        },
+                        "ur": {
+                            "title": "پری انجینئرنگ میں پری یونیورسٹی پروگرام",
+                            "description": "ایف ایس سی (پری انجینئرنگ) مکمل کیا جس نے مضبوط تجزیاتی سوچ اور لیب ڈسپلن فراہم کیا۔ اس بنیاد نے کمپیوٹر سسٹمز انجینئرنگ میں بیچلرز کی براہ راست حمایت کی — ریاضیاتی طریقوں اور طبیعیات کے تصورات نے سرکٹس، سگنلز اور سسٹمز کو سمجھنے میں آسانی پیدا کی، جبکہ لیب کا تجربہ پروگرامنگ میں ہینڈز آن پروجیکٹس تک لے گیا۔",
+                            "province": "آزاد کشمیر",
+                            "country": "پاکستان",
+                            "institution": "الغزالی کالج آف سائنسز",
+                            "tags": []
+                        },
+                        "it": {
+                            "title": "Programma Pre-Universitario in Pre-Ingegneria",
+                            "description": "Completato FSc (Pre-Ingegneria) fornendo un forte pensiero analitico e disciplina di laboratorio. Questa base ha supportato direttamente la laurea in Ingegneria dei Sistemi Informatici: metodi matematici e concetti di fisica hanno facilitato la comprensione di circuiti, segnali e sistemi, mentre l'esperienza di laboratorio è stata trasferita a progetti pratici di programmazione.",
+                            "province": "AJK",
+                            "country": "Pakistan",
+                            "institution": "Alghazali College of Sciences",
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {
+                        "year": 2020,
+                        "month": 11
+                    },
+                    "dateEnd": {
+                        "year": 2024,
+                        "month": 9
+                    },
+                    "img": "images/icons/must-university-logo.jpg",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Bachelor's in Computer Systems Engineering",
+                            "description": "Completed a Bachelor's in Computer Systems Engineering with practical coursework in AI/ML, cloud architectures, C++ and Python development, data structures & algorithms, operating systems, networking, and databases. Gained hands-on experience through labs and projects in model prototyping, cloud deployments, embedded systems, and team capstone work that focused on delivering functioning systems.",
+                            "province": "AJK",
+                            "country": "Pakistan",
+                            "institution": "Mirpur University of Sciences and Technology",
+                            "tags": []
+                        },
+                        "ur": {
+                            "title": "کمپیوٹر سسٹمز انجینئرنگ میں بیچلرز",
+                            "description": "کمپیوٹر سسٹمز انجینئرنگ میں بیچلرز مکمل کیا جس میں مصنوعی ذہانت / مشین لرننگ، کلاؤڈ آرکیٹیکچرز، سی پلس پلس اور پائتھون ڈویلپمنٹ، ڈیٹا اسٹرکچرز اور الگورتھم، آپریٹنگ سسٹمز، نیٹ ورکنگ، اور ڈیٹا بیسز میں عملی کورس ورک شامل تھا۔ لیبز اور پروجیکٹس کے ذریعے ماڈل پروٹوٹائپنگ، کلاؤڈ تعیناتیوں، ایمبیڈڈ سسٹمز، اور ٹیم کیپ اسٹون ورک میں ہینڈز آن تجربہ حاصل کیا جو کام کرنے والے سسٹمز کی فراہمی پر مرکوز تھا۔",
+                            "province": "آزاد کشمیر",
+                            "country": "پاکستان",
+                            "institution": "میرپور یونیورسٹی آف سائنسز اینڈ ٹیکنالوجی",
+                            "tags": []
+                        },
+                        "it": {
+                            "title": "Laurea in Ingegneria dei Sistemi Informatici",
+                            "description": "Completata una laurea in Ingegneria dei Sistemi Informatici con corsi pratici in AI/ML, architetture cloud, sviluppo C++ e Python, strutture dati e algoritmi, sistemi operativi, reti e database. Acquisita esperienza pratica attraverso laboratori e progetti in prototipazione di modelli, distribuzioni cloud, sistemi embedded e lavoro di squadra capstone focalizzato sulla consegna di sistemi funzionanti.",
+                            "province": "AJK",
+                            "country": "Pakistan",
+                            "institution": "Mirpur University of Sciences and Technology",
+                            "tags": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleThread",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {
+                        "year": 2025,
+                        "month": 10
+                    },
+                    "img": "images/icons/365-data-science-logo.svg",
+                    "fallbackFaIcon": "fa-solid fa-chart-line",
+                    "fallbackFaIconColor": "#0A1628",
+                    "locales": {
+                        "en": {
+                            "title": "Intro to AI",
+                            "description": "Completed comprehensive introduction to Artificial Intelligence, covering fundamental concepts and practical applications.",
+                            "institution": "365 Data Science"
+                        },
+                        "ur": {
+                            "title": "مصنوعی ذہانت کا تعارف",
+                            "description": "مصنوعی ذہانت کا جامع تعارف مکمل کیا، جس میں بنیادی تصورات اور عملی اطلاقات کا احاطہ کیا گیا ہے۔",
+                            "institution": "365 ڈیٹا سائنس"
+                        },
+                        "it": {
+                            "title": "Introduzione all'AI",
+                            "description": "Completata un'introduzione completa all'Intelligenza Artificiale, coprendo concetti fondamentali e applicazioni pratiche.",
+                            "institution": "365 Data Science"
+                        }
+                    },
+                    "links": [
+                        {
+                            "faIcon": "fa-solid fa-certificate",
+                            "href": "https://learn.365datascience.com/c/2425834e85/",
+                            "stringKey": "view_certification"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "dateStart": {
+                        "year": 2025,
+                        "month": 10
+                    },
+                    "img": "images/icons/365-data-science-logo.svg",
+                    "fallbackFaIcon": "fa-solid fa-chart-line",
+                    "fallbackFaIconColor": "#0A1628",
+                    "locales": {
+                        "en": {
+                            "title": "AI Ethics",
+                            "description": "Explored ethical considerations in AI development and deployment, including bias, fairness, and responsible AI practices.",
+                            "institution": "365 Data Science"
+                        },
+                        "ur": {
+                            "title": "مصنوعی ذہانت کی اخلاقیات",
+                            "description": "مصنوعی ذہانت کی ترقی اور تعیناتی میں اخلاقی تحفظات کا جائزہ لیا، بشمول تعصب، انصاف، اور ذمہ دارانہ مصنوعی ذہانت کے طریقے۔",
+                            "institution": "365 ڈیٹا سائنس"
+                        },
+                        "it": {
+                            "title": "Etica AI",
+                            "description": "Esplorate le considerazioni etiche nello sviluppo e nella distribuzione dell'AI, inclusi pregiudizi, equità e pratiche AI responsabili.",
+                            "institution": "365 Data Science"
+                        }
+                    },
+                    "links": [
+                        {
+                            "faIcon": "fa-solid fa-certificate",
+                            "href": "https://learn.365datascience.com/c/20b2f3bfba/",
+                            "stringKey": "view_certification"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "dateStart": {
+                        "year": 2025,
+                        "month": 10
+                    },
+                    "img": "images/icons/365-data-science-logo.svg",
+                    "fallbackFaIcon": "fa-solid fa-chart-line",
+                    "fallbackFaIconColor": "#0A1628",
+                    "locales": {
+                        "en": {
+                            "title": "Product Management for AI & Data Science",
+                            "description": "Learned product management strategies specifically tailored for AI and data science projects, including stakeholder management and project delivery.",
+                            "institution": "365 Data Science"
+                        },
+                        "ur": {
+                            "title": "مصنوعی ذہانت اور ڈیٹا سائنس کے لیے پروڈکٹ مینجمنٹ",
+                            "description": "مصنوعی ذہانت اور ڈیٹا سائنس پروجیکٹس کے لیے خاص طور پر تیار کردہ پروڈکٹ مینجمنٹ کی حکمت عملی سیکھی، بشمول اسٹیک ہولڈر مینجمنٹ اور پروجیکٹ کی فراہمی۔",
+                            "institution": "365 ڈیٹا سائنس"
+                        },
+                        "it": {
+                            "title": "Gestione del Prodotto per AI e Data Science",
+                            "description": "Apprese strategie di gestione del prodotto specificamente su misura per progetti di AI e data science, inclusa la gestione degli stakeholder e la consegna del progetto.",
+                            "institution": "365 Data Science"
+                        }
+                    },
+                    "links": [
+                        {
+                            "faIcon": "fa-solid fa-certificate",
+                            "href": "https://learn.365datascience.com/c/9f56f6cddf/",
+                            "stringKey": "view_certification"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

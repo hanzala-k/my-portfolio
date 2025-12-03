@@ -1,0 +1,64 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleContactForm",
+            "locales": {
+                "en": {
+                    "contact_thank_you": "*Thanks* for the contact!",
+                    "contact_thank_you_description": "Your message has been received, and I'll be reaching out to you soon. I appreciate your time and look forward to connecting with you!",
+                    "contact_thank_you_reply": "The reply will be sent to your email address *{email}*."
+                },
+                "ur": {
+                    "contact_thank_you": "*رابطہ* کرنے کا شکریہ!",
+                    "contact_thank_you_description": "آپ کا پیغام موصول ہو گیا ہے، اور میں جلد ہی آپ سے رابطہ کروں گا۔ میں آپ کے وقت کی قدر کرتا ہوں اور آپ سے رابطہ قائم کرنے کا منتظر ہوں!",
+                    "contact_thank_you_reply": "جواب آپ کے ای میل ایڈریس *{email}* پر بھیجا جائے گا۔"
+                },
+                "it": {
+                    "contact_thank_you": "*Grazie* per il contatto!",
+                    "contact_thank_you_description": "Il tuo messaggio è stato ricevuto e ti contatterò presto. Apprezzo il tuo tempo e non vedo l'ora di connettermi con te!",
+                    "contact_thank_you_reply": "La risposta verrà inviata al tuo indirizzo email *{email}*."
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_js_public_key": "tzObcsmOwHvPy6Rhp",
+                "contact_js_service_id": "service_4h8g7vb",
+                "contact_js_template_id": "template_react"
+            },
+            "items": null
+        },
+        {
+            "id": 2,
+            "component": "ArticleContactOptions",
+            "locales": {
+                "en": {
+                    "title": "Or...",
+                    "description": "If you prefer, you can reach out to me through the following options:"
+                },
+                "ur": {
+                    "title": "یا...",
+                    "description": "اگر آپ ترجیح دیتے ہیں، تو آپ درج ذیل اختیارات کے ذریعے مجھ سے رابطہ کر سکتے ہیں:"
+                },
+                "it": {
+                    "title": "Oppure...",
+                    "description": "Se preferisci, puoi contattarmi tramite le seguenti opzioni:"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_ids": [
+                    "address",
+                    "phone",
+                    "email",
+                    "linkedin",
+                    "facebook",
+                    "github"
+                ]
+            },
+            "items": null
+        }
+    ]
+}

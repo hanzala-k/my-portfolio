@@ -1,0 +1,173 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": null
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": true,
+                "chart": "pie"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-robot",
+                    "fallbackFaIconColor": "#6366F1",
+                    "percentage": 20,
+                    "locales": {
+                        "en": {
+                            "title": "Exploring AI & Automations",
+                            "description": "Experimenting with AI tools and building small automations to solve real problems.",
+                            "level": null
+                        },
+                        "ur": {
+                            "title": "مصنوعی ذہانت اور آٹومیشنز کی تلاش",
+                            "description": "مصنوعی ذہانت کے ٹولز کے ساتھ تجربات کرنا اور حقیقی مسائل کو حل کرنے کے لیے چھوٹی آٹومیشنز بنانا۔",
+                            "level": null
+                        },
+                        "it": {
+                            "title": "Esplorando AI e Automazioni",
+                            "description": "Sperimentando con strumenti AI e costruendo piccole automazioni per risolvere problemi reali.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-graduation-cap",
+                    "fallbackFaIconColor": "#6B7280",
+                    "percentage": 18,
+                    "locales": {
+                        "en": {
+                            "title": "Continuous Learning",
+                            "description": "Studying ML, Vue.js, and product tooling to level up practical skills.",
+                            "level": null
+                        },
+                        "ur": {
+                            "title": "مسلسل سیکھنا",
+                            "description": "عملی مہارتوں کو بڑھانے کے لیے مشین لرننگ، ویو جے ایس، اور پروڈکٹ ٹولنگ کا مطالعہ کرنا۔",
+                            "level": null
+                        },
+                        "it": {
+                            "title": "Apprendimento Continuo",
+                            "description": "Studiando ML, Vue.js e strumenti di prodotto per migliorare le competenze pratiche.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-video",
+                    "fallbackFaIconColor": "#F59E0B",
+                    "percentage": 15,
+                    "locales": {
+                        "en": {
+                            "title": "Video Editing & Storytelling",
+                            "description": "Crafting event highlights and narrative-driven short edits.",
+                            "level": null
+                        },
+                        "ur": {
+                            "title": "ویڈیو ایڈیٹنگ اور کہانی سنانا",
+                            "description": "ایونٹ کی جھلکیاں اور بیانیہ پر مبنی مختصر ترامیم تیار کرنا۔",
+                            "level": null
+                        },
+                        "it": {
+                            "title": "Video Editing e Storytelling",
+                            "description": "Creazione di highlights di eventi e montaggi brevi basati sulla narrazione.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "fallbackFaIconColor": "#FB923C",
+                    "percentage": 22,
+                    "locales": {
+                        "en": {
+                            "title": "Frontend Web Development (Vue)",
+                            "description": "Building interactive interfaces and learning modern component-based app structure.",
+                            "level": null
+                        },
+                        "ur": {
+                            "title": "فرنٹ اینڈ ویب ڈویلپمنٹ (ویو)",
+                            "description": "انٹرایکٹو انٹرفیس بنانا اور جدید اجزاء پر مبنی ایپ ڈھانچہ سیکھنا۔",
+                            "level": null
+                        },
+                        "it": {
+                            "title": "Sviluppo Web Frontend (Vue)",
+                            "description": "Costruzione di interfacce interattive e apprendimento della struttura moderna delle app basata su componenti.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-table-tennis-paddle-ball",
+                    "fallbackFaIconColor": "#14B8A6",
+                    "percentage": 12,
+                    "locales": {
+                        "en": {
+                            "title": "Badminton & Fitness",
+                            "description": "Playing regularly, recording matches, and staying active.",
+                            "level": null
+                        },
+                        "ur": {
+                            "title": "بیڈمنٹن اور فٹنس",
+                            "description": "باقاعدگی سے کھیلنا، میچ ریکارڈ کرنا، اور متحرک رہنا۔",
+                            "level": null
+                        },
+                        "it": {
+                            "title": "Badminton e Fitness",
+                            "description": "Giocando regolarmente, registrando partite e rimanendo attivi.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-lightbulb",
+                    "fallbackFaIconColor": "#EF4444",
+                    "percentage": 13,
+                    "locales": {
+                        "en": {
+                            "title": "Problem-Solving Projects",
+                            "description": "Building scripts, workflows, and lightweight tools that save time.",
+                            "level": null
+                        },
+                        "ur": {
+                            "title": "مسئلہ حل کرنے والے پروجیکٹس",
+                            "description": "اسکرپٹس، ورک فلو، اور ہلکے ٹولز بنانا جو وقت بچاتے ہیں۔",
+                            "level": null
+                        },
+                        "it": {
+                            "title": "Progetti di Problem Solving",
+                            "description": "Costruzione di script, flussi di lavoro e strumenti leggeri che fanno risparmiare tempo.",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

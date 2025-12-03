@@ -1,0 +1,137 @@
+/** Font Awesome webfonts path **/
+$fa-font-path: "@fortawesome/fontawesome-free/webfonts";
+
+/** Overriding Bootstrap's contrast ratio. **/
+$min-contrast-ratio: 1.5 !default;
+
+/** Typography **/
+$font-family-base: 'Saira', sans-serif;
+
+/** Bootstrap Colors **/
+$primary: #439631;
+$dark: #212529;
+$success: #06c203;
+$danger: #d91c1c;
+$light: #fcfcfc;
+$white: #ffffff;
+$black: #000000;
+
+/** Layout Colors **/
+$default-section-background: var(--default-section-background);
+$loader-background: var(--loader-background);
+$text-default-color: var(--text-default-color);
+$text-muted: #6c757d;
+
+/** Nav Colors **/
+$nav-background: var(--nav-background);
+$nav-background-selected: var(--nav-background-selected);
+$nav-avatar-border-color: var(--nav-avatar-border-color);
+$nav-highlight: var(--nav-highlight);
+$nav-hover: var(--nav-hover);
+$nav-selected: var(--nav-selected);
+$nav-contrast: var(--nav-contrast);
+$nav-contrast-90: var(--nav-contrast-90);
+$nav-contrast-80: var(--nav-contrast-80);
+$nav-contrast-70: var(--nav-contrast-70);
+$nav-contrast-60: var(--nav-contrast-60);
+$nav-contrast-50: var(--nav-contrast-50);
+$nav-contrast-40: var(--nav-contrast-40);
+$nav-contrast-30: var(--nav-contrast-30);
+$nav-contrast-20: var(--nav-contrast-20);
+$nav-contrast-10: var(--nav-contrast-10);
+
+/** Light Shades **/
+$light-1: var(--light-1);
+$light-2: var(--light-2);
+$light-3: var(--light-3);
+$light-4: var(--light-4);
+$light-5: var(--light-5);
+$light-6: var(--light-6);
+$light-7: var(--light-7);
+
+$light-shades-palette: (
+    $light-1,
+    $light-2,
+    $light-3,
+    $light-4,
+    $light-5,
+    $light-6,
+    $light-7,
+);
+
+/** Layout Constraints **/
+$navigation-sidebar-breakpoint: "lg";
+$max-content-width: 2500px;
+$default-border-radius: 10px;
+
+/** Z-Index Layers **/
+$z-index-loader: 9999;
+$z-index-sidebar: 1000;
+$z-index-tab-controller: 1000;
+
+/** Layout Constraints - Sidebar **/
+$nav-sidebar-width: 320px;
+$nav-sidebar-width-lg: 290px;
+$nav-sidebar-width-shrink: 120px;
+
+/** Layout Constraints - Sidebar Footer **/
+$nav-sidebar-footer-height: 100px;
+$nav-sidebar-footer-height-compressed: 60px;
+$nav-sidebar-footer-compress-screen-height: 560px;
+
+/** Layout Constraints - Mobile Navigation **/
+$nav-tab-controller-height: 60px;
+$nav-tab-controller-with-bottom-offset-height: 65px;
+$nav-section-picker-height: 50px;
+$nav-section-picker-height-compressed: 45px;
+
+/** ArticleTimeline Parameters **/
+$article-timeline-image-size: 100px;
+$article-timeline-image-size-md: 75px;
+$article-timeline-image-size-sm: 50px;
+
+$article-timeline-border-width: 7px;
+$article-timeline-border-width-md: 6px;
+$article-timeline-border-width-sm: 5px;
+
+$article-timeline-border-color: $light-3;
+$article-timeline-line-color: $light-4;
+$article-timeline-line-width: 3px;
+
+/** ArticleThread Parameters **/
+$article-thread-scale-multipliers: (
+    xxxl: 1,
+    xxl: 0.975,
+    xl: 0.95,
+    md: 0.9,
+    sm: 0.8
+);
+$article-thread-line-color: $article-timeline-line-color;
+$article-thread-circle-base-size: 32px;
+
+/** Chart JS Customization **/
+:root {
+    --chart-js-border-color: #{$default-section-background};
+    --chart-js-hover-border-color: #{$light};
+    --nav-background-color: #{$nav-background};
+}
+
+/** Typography - Multipliers (Headers) **/
+$headings-breakpoint-multipliers: (
+    xxxl: 1,
+    xxl: 0.95,
+    xl: 0.925,
+    lg: 0.875,
+    md: 0.825,
+    sm: 0.75
+);
+
+/** Typography - Multipliers (Texts) **/
+$texts-breakpoint-multipliers: (
+    xxxl: 1,
+    xxl: 0.95,
+    xl: 0.925,
+    lg: 0.9,
+    md: 0.875,
+    sm: 0.85
+);

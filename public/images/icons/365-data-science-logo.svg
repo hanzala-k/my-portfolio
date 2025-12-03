@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background -->
+  <rect width="200" height="200" fill="#0A1628" rx="20"/>
+  
+  <!-- "365" Text -->
+  <text x="50" y="110" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white">365</text>
+  
+  <!-- Data Graph Line -->
+  <circle cx="140" cy="75" r="6" fill="white"/>
+  <circle cx="165" cy="95" r="6" fill="white"/>
+  <line x1="140" y1="75" x2="165" y2="95" stroke="white" stroke-width="3"/>
+  
+  <!-- Small text -->
+  <text x="35" y="140" font-family="Arial, sans-serif" font-size="12" fill="#6B7280">DATA SCIENCE</text>
+</svg>
